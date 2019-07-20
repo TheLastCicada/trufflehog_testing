@@ -1,0 +1,4 @@
+Fake AWS keys
+
+Access Key ID: LKREJGGCZAALSLGL3R5B
+Secret Access Key: /tTNVq+xnvmTOL8eWY0zXATa7nsEy7JqOqMaw1fp
