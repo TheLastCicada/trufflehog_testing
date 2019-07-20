@@ -2,3 +2,6 @@ Fake AWS keys
 
 Access Key ID: AKIAJGGCZAALSLGL3R5B
 Secret Access Key: /tTNVq+xnvmTOL8eWY0zXATa7nsEy7JqOqMaw1fp
+
+Other thing to test
+-----BEGIN RSA PRIVATE KEY-----
